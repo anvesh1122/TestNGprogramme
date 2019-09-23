@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2019-09-13T14:58:28Z" finished-at="2019-09-13T14:58:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2019-09-13T14:58:28Z" finished-at="2019-09-13T14:58:28Z">
+      <class name="TestNGAutomation2.java.TestNGcase4">
+        <test-method status="PASS" signature="access2()[pri:0, instance:TestNGAutomation2.java.TestNGcase4@9629756]" name="access2" is-config="true" duration-ms="15" started-at="2019-09-13T20:28:28Z" finished-at="2019-09-13T20:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- access2 -->
+        <test-method status="PASS" signature="access1()[pri:0, instance:TestNGAutomation2.java.TestNGcase4@9629756]" name="access1" duration-ms="16" started-at="2019-09-13T20:28:28Z" finished-at="2019-09-13T20:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- access1 -->
+        <test-method status="PASS" signature="access3()[pri:0, instance:TestNGAutomation2.java.TestNGcase4@9629756]" name="access3" is-config="true" duration-ms="0" started-at="2019-09-13T20:28:28Z" finished-at="2019-09-13T20:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- access3 -->
+        <test-method status="PASS" signature="access2()[pri:0, instance:TestNGAutomation2.java.TestNGcase4@9629756]" name="access2" is-config="true" duration-ms="0" started-at="2019-09-13T20:28:28Z" finished-at="2019-09-13T20:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- access2 -->
+        <test-method status="PASS" signature="access()[pri:0, instance:TestNGAutomation2.java.TestNGcase4@9629756]" name="access" duration-ms="0" started-at="2019-09-13T20:28:28Z" finished-at="2019-09-13T20:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- access -->
+        <test-method status="PASS" signature="access3()[pri:0, instance:TestNGAutomation2.java.TestNGcase4@9629756]" name="access3" is-config="true" duration-ms="0" started-at="2019-09-13T20:28:28Z" finished-at="2019-09-13T20:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- access3 -->
+      </class> <!-- TestNGAutomation2.java.TestNGcase4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
